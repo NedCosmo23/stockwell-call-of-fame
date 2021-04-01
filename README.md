@@ -11,7 +11,7 @@ The target user will be anyone from 16-50, so it is a must that the site functio
 
 The end-user who is unaware of existance of the 'Hall of Fame' will want information on the history, whereabouts and significance of the 'Hall of Fame' as well as news about future events at the 'Hall of Fame' or in the local area.
 
-The idea of the project is to 
+
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
