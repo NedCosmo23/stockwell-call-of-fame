@@ -1,13 +1,16 @@
 # Stockwell Graffiti Hall of Fame
+## Milestone Project One
 
 This site is for the Stockwell graffiti 'Hall of Fame', as raising awareness for it could be instrumental in ensuring that the local council are aware of the benefit of this space.  
 
 The idea for this project is, as stated, to make the user aware of this great space for local artists, sports players, or musicians/music fans. 
 With many similar spaces at risk from local councils, lack of budget or interest, one way to safeguard this space would be to make sure it is being used regularly, by a wide spectrum of people, thus demonstrating it's worth. 
 
+
+
 # UX
 The taget audience for the site is fairly broad, it is mainly for people who are interested in graffiti, but also for people who may be looking for events (music/art/sports) in the local area.
-The target user will be anyone from 16-50, so it is a must that the site functions just as well on a computer/laptop as it does on a phone/tablet.
+The target user will be anyone from 15-50+, so it is a must that the site functions just as well on a computer/laptop as it does on a phone/tablet.
 
 The end-user who is unaware of existance of the 'Hall of Fame' will want information on the history, whereabouts and significance of the 'Hall of Fame' as well as news about future events at the 'Hall of Fame' or in the local area.
 
@@ -17,7 +20,7 @@ In particular, as part of this section we recommend that you provide a list of U
 
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
+![Wireframe for Home page](Home.png)
 # Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
