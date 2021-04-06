@@ -72,4 +72,7 @@ The photos used in this site were obtained from ...
 Acknowledgements
 I received inspiration for this project from X
 
+
+
+
 The background image was from http://www.rocktownsend.co.uk/stockwell-hall-of-fame
