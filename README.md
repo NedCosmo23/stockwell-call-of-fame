@@ -73,6 +73,7 @@ Acknowledgements
 I received inspiration for this project from X
 
 
-
+index.html format used "https://getbootstrap.com/docs/4.0/examples/cover/"
+gallery.html format used "https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"
 
 The background image was from http://www.rocktownsend.co.uk/stockwell-hall-of-fame
