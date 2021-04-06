@@ -74,6 +74,9 @@ I received inspiration for this project from X
 
 
 index.html format used "https://getbootstrap.com/docs/4.0/examples/cover/"
-gallery.html format used "https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"
+background image for index.html from "http://www.rocktownsend.co.uk/stockwell-hall-of-fame"
 
-The background image was from http://www.rocktownsend.co.uk/stockwell-hall-of-fame
+gallery.html format used "https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"
+Gallery images from : "http://ldngraffiti.co.uk/graffiti/writers/neist?pic=75056&piece=75048&filters=%7B%22authors%22:%5B13337%5D%7D&show=all"
+                      "https://ilovegraffiti.de/blog/2017/02/02/stockwell-graffiti-hall-of-fame-in-london-uk/"
+
