@@ -76,6 +76,11 @@ I received inspiration for this project from X
 index.html format used "https://getbootstrap.com/docs/4.0/examples/cover/"
 background image for index.html from "http://www.rocktownsend.co.uk/stockwell-hall-of-fame"
 
+events.html format used "https://getbootstrap.com/docs/4.0/examples/carousel/"
+images in events used: "https://www.expressandstar.com/resizer/18WqnwLr6WZECSF4vPEwrne4qBk=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/QOWNV2UT3NFHBHO4MYXH3VIBJQ.jpg"
+                       "https://www.sentryair.com/blog/wp-content/uploads/2013/04/FH17JUN_579_07_034.jpg"
+                       "https://cache.mrporter.com/content/images/cms/ycm/resource/blob/665736/561136ae63223663e0d1375fe0aa22db/824efcc4-599d-4ee4-bdf2-850321231af0-data.jpg/w1500_q80.jpg"
+
 gallery.html format used "https://startbootstrap.com/snippets/thumbnail-gallery"
 Gallery images from : "http://ldngraffiti.co.uk/graffiti/writers/neist?pic=75056&piece=75048&filters=%7B%22authors%22:%5B13337%5D%7D&show=all"
                       "https://ilovegraffiti.de/blog/2017/02/02/stockwell-graffiti-hall-of-fame-in-london-uk/"
