@@ -5,9 +5,16 @@ h1, h2, h3, h4, h5{
     z-index: 2;
 }
 
+
 p{
     font-family: 'Playfair Display', serif;
     z-index: 2;
+}
+
+ .home-text{
+     background-color: rgba(0, 0, 0, .5);
+     border-radius: 25px ;
+   
 }
 
 
@@ -67,8 +74,10 @@ body {
 .home-background {
  background-image: url("../images/background.jpg");
   background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   z-index: 1;
- 
 }
 
 

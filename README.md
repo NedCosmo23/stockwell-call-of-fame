@@ -34,25 +34,6 @@ Another feature idea
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-# JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 # Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -65,13 +46,7 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 # Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
 Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
-
 
 index.html format used "https://getbootstrap.com/docs/4.0/examples/cover/"
 background image for index.html from "http://www.rocktownsend.co.uk/stockwell-hall-of-fame"
@@ -80,6 +55,7 @@ events.html format used "https://getbootstrap.com/docs/4.0/examples/carousel/"
 images in events used: "https://www.expressandstar.com/resizer/18WqnwLr6WZECSF4vPEwrne4qBk=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/QOWNV2UT3NFHBHO4MYXH3VIBJQ.jpg"
                        "https://www.sentryair.com/blog/wp-content/uploads/2013/04/FH17JUN_579_07_034.jpg"
                        "https://cache.mrporter.com/content/images/cms/ycm/resource/blob/665736/561136ae63223663e0d1375fe0aa22db/824efcc4-599d-4ee4-bdf2-850321231af0-data.jpg/w1500_q80.jpg"
+                       "https://images.squarespace-cdn.com/content/v1/5162b02ce4b0b72aa9506f28/1557297533224-RU7Y11388NOLSBAVEV91/ke17ZwdGBToddI8pDm48kPP0r1GVfG7tsOthLTqW8h97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0r9YoV8ytu8SWDj21Bt3yU8HNNtOV8qShhUlqIRD04F1MSoKXAhTdNEAPBLPFSTIGg/Outdoor%2Bcinema%2Bview.jpg"
 
 gallery.html format used "https://startbootstrap.com/snippets/thumbnail-gallery"
 Gallery images from : "http://ldngraffiti.co.uk/graffiti/writers/neist?pic=75056&piece=75048&filters=%7B%22authors%22:%5B13337%5D%7D&show=all"
